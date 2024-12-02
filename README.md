@@ -1,4 +1,4 @@
-****IBM Data Analyst Professional Certificate****
+# IBM Data Analyst Professional Certificate
 
 Welcome to my GitHub repository where I showcase the projects and assignments completed during my IBM Data Analyst Professional Certificate course on Coursera. This course helped me gain comprehensive knowledge and practical skills required to become a proficient data analyst.
 
